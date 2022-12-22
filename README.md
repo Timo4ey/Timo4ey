@@ -9,11 +9,9 @@
 <img src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman"/>
 <img src="https://img.shields.io/badge/-Charles-000000?style=for-the-badge&logo=Charles"/>
 <img src="https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=DevTools"/>
-
 <img src="https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT"/>
 <img src="https://img.shields.io/badge/-Android studio-000000?style=for-the-badge&logo=Android studio"/>
-
-<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=orange"/>
+<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/-Postgresql-000000?style=for-the-badge&logo=Postgresql"/>
 <img src="https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL"/>
 <img src="https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python"/>
