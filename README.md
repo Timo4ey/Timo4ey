@@ -5,7 +5,7 @@
 [Ссылка на резюме](https://www.figma.com/file/N0YC4WM5SBwHmViJ2vVh6K/)
 
 ### Инструменты и языки программирования
-
+<div>
 <img src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman"/>
 <img src="https://img.shields.io/badge/-Charles-000000?style=for-the-badge&logo=Charles"/>
 <img src="https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=DevTools"/>
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
 <img src="https://img.shields.io/badge/-LINUX-000000?style=for-the-badge&logo=UBUNTU"/>
 
-
+</div>
 
 ### Testing Documentation
 
