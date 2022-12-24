@@ -6,16 +6,16 @@
 
 ### Инструменты и языки программирования
 <div>
-<img src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman"/>
-<img src="https://img.shields.io/badge/-Charles-000000?style=for-the-badge&logo=Charles"/>
-<img src="https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=DevTools"/>
-<img src="https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT"/>
+<img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman"/>
+<img src="https://img.shields.io/badge/-Charles-black?style=for-the-badge&logo=Charles"/>
+<img src="https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=DevTools"/>
+<img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT"/>
 </div>
 <div>
-<img src="https://img.shields.io/badge/-Android studio-000000?style=for-the-badge&logo=Android studio"/>
-<img src="https://img.shields.io/badge/-YOUTRACK-000000?style=for-the-badge&logo=YOUTRACK&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/-Postgresql-000000?style=for-the-badge&logo=Postgresql"/>
+<img src="https://img.shields.io/badge/-Android studio-black?style=for-the-badge&logo=Android studio"/>
+<img src="https://img.shields.io/badge/-YOUTRACK-black?style=for-the-badge&logo=YOUTRACK&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=json&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql"/>
 </div>
 <div>
 <img src="https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL"/>
