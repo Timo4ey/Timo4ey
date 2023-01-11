@@ -32,7 +32,7 @@
 - [SQL Queries](x)
 - [Postman Collections](x)
 - [Mindmaps](x)
-- [Autotesting Python](x)
+- [Autotesting Python](https://github.com/Timo4ey/Test-Practices-Selenium-Python)
 - [Autotesting Javascript](x)
 
 
@@ -40,4 +40,4 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/im_timofey)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](x)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timo4ey&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timo4ey&show_icons=true&theme=radical)
