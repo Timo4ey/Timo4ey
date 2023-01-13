@@ -2,7 +2,7 @@
 ---
 
 ## Моё резюме
-[Ссылка на резюме](https://www.figma.com/file/N0YC4WM5SBwHmViJ2vVh6K/)
+[Ссылка на резюме](https://www.figma.com/file/N0YC4WM5SBwHmViJ2vVh6K/CV_Yakovishin_Timofey?node-id=0%3A1&t=u7V3liek9g45yKnP-1)
 
 ### Инструменты и языки программирования
 <div>
