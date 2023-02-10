@@ -1,10 +1,10 @@
 ## Hello, my name is Timofey and I'm Python software engineer 
 ---
 
-## Моё резюме
-[Ссылка на резюме](x)
+## My CV
+[Link to CV](x)
 
-### Инструменты и языки программирования
+### Tools
 <div>
 <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman"/>
 <img src="https://img.shields.io/badge/-Charles-black?style=for-the-badge&logo=Charles"/>
