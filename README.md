@@ -1,8 +1,8 @@
-## Добрый день, меня зовут Яковишин Тимофей, я начинающий инжинер по тестированию.
+## Hello, my name is Timofey and I'm Python software engineer 
 ---
 
 ## Моё резюме
-[Ссылка на резюме](https://www.figma.com/file/N0YC4WM5SBwHmViJ2vVh6K/CV_Yakovishin_Timofey?node-id=0%3A1&t=u7V3liek9g45yKnP-1)
+[Ссылка на резюме](x)
 
 ### Инструменты и языки программирования
 <div>
@@ -24,16 +24,6 @@
 <img src="https://img.shields.io/badge/-LINUX-000000?style=for-the-badge&logo=UBUNTU"/>
 </div>
 
-### Testing Documentation
-
-- [Checklists](x)
-- [Test-Suites and Test-Cases](x)
-- [Bug-Reports](x)
-- [SQL Queries](x)
-- [Postman Collections](x)
-- [Mindmaps](x)
-- [Autotesting Python](https://github.com/Timo4ey/Test-Practices-Selenium-Python)
-- [Autotesting Javascript](x)
 
 
 ### Follow Me
