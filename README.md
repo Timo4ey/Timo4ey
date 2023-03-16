@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT"/>
 </div>
 <div>
-<img src="https://img.shields.io/badge/-Android studio-black?style=for-the-badge&logo=Android studio"/>
-<img src="https://img.shields.io/badge/-YOUTRACK-black?style=for-the-badge&logo=YOUTRACK&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=json&logoColor=yellow"/>
+<!-- <img src="https://img.shields.io/badge/-Android studio-black?style=for-the-badge&logo=Android studio"/> -->
+<!-- <img src="https://img.shields.io/badge/-YOUTRACK-black?style=for-the-badge&logo=YOUTRACK&logoColor=yellow"/> -->
+<!-- <img src="https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=json&logoColor=yellow"/> -->
 <img src="https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql"/>
 </div>
 <div>
