@@ -3,7 +3,11 @@
 
 ## My CV
 [Link to CV](x)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo4ey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Tools
 <div>
 <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman"/>
