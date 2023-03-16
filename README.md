@@ -10,14 +10,15 @@
 <img src="https://img.shields.io/badge/-Charles-black?style=for-the-badge&logo=Charles"/>
 <img src="https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=DevTools"/>
 <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT"/>
-</div>
+<img src="https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql"/>
+
+<!-- </div>
 <div>
 <!-- <img src="https://img.shields.io/badge/-Android studio-black?style=for-the-badge&logo=Android studio"/> -->
 <!-- <img src="https://img.shields.io/badge/-YOUTRACK-black?style=for-the-badge&logo=YOUTRACK&logoColor=yellow"/> -->
 <!-- <img src="https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=json&logoColor=yellow"/> -->
-<img src="https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql"/>
-</div>
-<div>
+<!-- </div>
+<div> --> -->
 <img src="https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL"/>
 <img src="https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python"/>
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
