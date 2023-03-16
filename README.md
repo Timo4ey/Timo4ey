@@ -4,10 +4,6 @@
 ## My CV
 [Link to CV](x)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo4ey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Tools
 <div>
 <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman"/>
@@ -33,5 +29,7 @@
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/im_timofey)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](x)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo4ey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timo4ey&show_icons=true&theme=radical)
