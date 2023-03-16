@@ -1,8 +1,9 @@
 ## Hello, my name is Timofey and I'm Python software engineer 
 
 ## My CV
+<div>
 [Link to CV](https://github.com/Timo4ey)
-<br>
+</div>
 
 
 ### Tools
