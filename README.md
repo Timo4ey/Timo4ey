@@ -2,7 +2,7 @@
 ---
 
 ## My CV
-[Link to CV](x)
+[Link to CV](https://github.com/Timo4ey)
 
 ### Tools
 <div>
