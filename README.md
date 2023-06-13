@@ -32,7 +32,10 @@
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/im_timofey)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9-%D1%8F%D0%BA%D0%BE%D0%B2%D0%B8%D1%88%D0%B8%D0%BD-a13ab11bb/?trk=public-profile-join-page)
-
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Timo4ey&theme=radical)](https://git.io/streak-stats)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo4ey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timo4ey&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timo4ey&show_icons=true&theme=radical)
+ -->
