@@ -31,6 +31,7 @@ I'd worked as the Digital Manager for six years. I participated in advertising h
 <p align="left"> <a href="https://www.github.com/Timo4ey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/timofey-yakovishin-python-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+[![LeetCode user yakovishintimofey](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyakovishintimofey&logo=leetcode&logoColor=yellow)](https://leetcode.com/yakovishintimofey/)
 
 <b>My GitHub Stats</b>
 
