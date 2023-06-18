@@ -1,41 +1,40 @@
-## Hello, my name is Timofey, and I'm Python software engineer 
+Hi 👋 My name is Timofey Yakovishin
+===================================
 
-## My CV
-[Link to CV](https://github.com/Timo4ey)
+Python Software Engineer
+------------------------
 
-[![LeetCode user yakovishintimofey](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyakovishintimofey&logo=leetcode&logoColor=yellow)](https://leetcode.com/yakovishintimofey/)
-### Tools
-<div>
-<img src="https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python"/>
-<img src="https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL"/>
-<img src="https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql"/>
-<img src="https://img.shields.io/badge/-LINUX-000000?style=for-the-badge&logo=UBUNTU"/>
-</div>
-<div>
-<img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman"/>
-<img src="https://img.shields.io/badge/-Charles-black?style=for-the-badge&logo=Charles"/>
-<img src="https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=DevTools"/>
-<img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT"/>
+I'd worked as the Digital Manager for six years. I participated in advertising hundreds of startups and hundreds of big businesses. My mission was helping entrepreneurs and businesses increase their sales no matter what. So \`no matter what\` means that I was doing everything. I worked as an advertiser, a digital analytic, a copywriter, a designer, and of course as a programmer. And over time I began to delve into programming which seemed like magic to me, and it began to make sense. I started studying programming deeply for fun. Firstly, I automated a routine. Plots and reports that I'd built in Excel for hours, my scripts built for several minutes or seconds. I felt this power and gone farther and farther. And the second thing that I automated was creating advertising. My career's been going well since I started to learn programming. Clients were excited because their tasks were doing faster. And one of the moments I thought that my new mission is to be useful as a programmer. Since this moment I with hard and pleasure study programming and waiting for a new challenge.
 
-<!-- </div>
-<div>
-<!-- <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript"/> -->
-<!-- <img src="https://img.shields.io/badge/-Android studio-black?style=for-the-badge&logo=Android studio"/> -->
-<!-- <img src="https://img.shields.io/badge/-YOUTRACK-black?style=for-the-badge&logo=YOUTRACK&logoColor=yellow"/> -->
-<!-- <img src="https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=json&logoColor=yellow"/> -->
-<!-- </div>
--->
+* 🌍  I'm based in Russia, Saint-Petersburg
+* ✉️  You can contact me at [yakovishintimofey@gmail.com](mailto:yakovishintimofey@gmail.com)
+* 🧠  I'm learning DJANGO, DRF
+* ⚡  I like solving algorithms and solve it every day on LeetCode
+
+### Skills
 
 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
 
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/im_timofey)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9-%D1%8F%D0%BA%D0%BE%D0%B2%D0%B8%D1%88%D0%B8%D0%BD-a13ab11bb/?trk=public-profile-join-page)
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Timo4ey&theme=radical)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo4ey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Socials
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timo4ey&show_icons=true&theme=radical)
- -->
+<p align="left"> <a href="https://www.github.com/Timo4ey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/timofey-yakovishin-python-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Timo4ey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Timo4ey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Timo4ey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timo4ey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
