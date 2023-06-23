@@ -8,7 +8,7 @@ I'd worked as the Digital Manager for six years. I participated in advertising h
 
 * 🌍  I'm based in Russia, Saint-Petersburg
 * ✉️  You can contact me at [yakovishintimofey@gmail.com](mailto:yakovishintimofey@gmail.com)
-* 🧠  I'm learning AsyncIO Python, JavaScript
+* 🧠  I'm learning `AsyncIO Python`, `JavaScript`
 * ⚡  I like solving algorithms and solve it every day on LeetCode
 
 ### Skills
