@@ -33,6 +33,8 @@ I'd worked as the Digital Manager for six years. I participated in advertising h
 ### Badges
 [![LeetCode user ya_timofey](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fya_timofey&logo=leetcode&logoColor=yellow)](https://leetcode.com/ya_timofey/)
 
+![Codewars](https://www.codewars.com/users/%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B90410/badges/micro)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Timo4ey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Timo4ey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
